@@ -1,0 +1,11 @@
+services:
+  database:
+    image: postgres
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_PASSWORD: mysecretpassword
+  camunda:
+    image: "camunda/camunda-bpm-platform"
+    ports:
+      - "8080:8080"
