@@ -17,11 +17,10 @@ Der Geschäftsprozess umfasst folgende Schritte:
 - **Gateway**: Steuerelement in BPMN zur Prozessverzweigung.
 - **Camunda BPM**: Plattform für Workflow- und Entscheidungsautomation.
 
-## Grafische Darstellung (BPMN/DMN)
-Hier wird eine BPMN-Darstellung des Geschäftsprozesses hinzugefügt. (Bitte Grafik einfügen)
+## Grafische Darstellung (BPMN)
+![erstes bild](camunda_tbz.png)
+![zweites bild](camunda_tbz2.png)
 
-## BPMN-Datei (XML)
-Eine XML-Datei, die den BPMN-Prozess für "Blockbuster" definiert. (Datei beifügen)
 
 ## Gate Way Implementierung
 Beschreibung der Implementierung verschiedener Gateways im Prozess, einschließlich Entscheidungslogik und Verzweigungsbedingungen.
